@@ -7111,6 +7111,7 @@
 
 # Hulu
 (^|\.)hulu\.com$
+(^|\.)blued\.com$
 
 # Instagram
 (^|\.)\w*instagram\w*\.\w*$
